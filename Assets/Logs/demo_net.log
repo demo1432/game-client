@@ -18,3 +18,73 @@ INFO  [1] [11:29:57.903] [LogTool] - ExObserver onNotify  data = test
 INFO  [1] [11:29:57.904] [LogTool] - ExObserver onNotify  data = test
 INFO  [1] [11:29:57.906] [LogTool] - ExObserver onNotify  data = test
 INFO  [1] [11:29:57.907] [LogTool] - ================= main   end ========================
+INFO  [1] [16:49:52.632] [LogTool] - ================= main start ========================
+INFO  [1] [16:49:52.641] [LogTool] - timeout 1
+INFO  [1] [16:50:24.507] [LogTool] - ================= main start ========================
+INFO  [1] [16:50:38.891] [LogTool] - timeout 1
+INFO  [1] [16:50:49.436] [LogTool] - ================= main start ========================
+INFO  [1] [16:50:49.446] [LogTool] - timeout 1
+INFO  [1] [16:50:49.448] [LogTool] - timeout 2
+INFO  [1] [16:50:49.449] [LogTool] - ================= main   end ========================
+INFO  [1] [16:51:11.285] [LogTool] - ================= main start ========================
+INFO  [1] [16:51:11.294] [LogTool] - timeout 1
+INFO  [1] [16:51:11.296] [LogTool] - timeout 2
+INFO  [1] [16:51:11.297] [LogTool] - ================= main   end ========================
+INFO  [1] [16:55:33.147] [LogTool] - ================= main start ========================
+INFO  [1] [16:55:33.157] [LogTool] - AsyncScaffold timeout 1
+INFO  [1] [16:55:33.158] [LogTool] - AsyncTool timeout 1
+INFO  [1] [16:55:33.159] [LogTool] - AsyncScaffold timeout 2
+INFO  [1] [16:55:33.160] [LogTool] - ================= main   end ========================
+INFO  [1] [16:55:36.145] [LogTool] - AsyncTool timeout 1
+INFO  [1] [16:56:12.678] [LogTool] - ================= main start ========================
+INFO  [1] [16:56:12.687] [LogTool] - AsyncScaffold timeout 1
+INFO  [1] [16:56:12.688] [LogTool] - AsyncTool timeout 1
+INFO  [1] [16:56:12.690] [LogTool] - AsyncScaffold timeout 2
+INFO  [1] [16:56:12.690] [LogTool] - ================= main   end ========================
+INFO  [1] [16:57:02.441] [LogTool] - AsyncTool timeout 2
+INFO  [1] [16:58:27.946] [LogTool] - ================= main start ========================
+INFO  [1] [16:58:27.956] [LogTool] - AsyncScaffold timeout 1
+INFO  [1] [16:58:27.957] [LogTool] - AsyncTool timeout 1
+INFO  [1] [16:58:27.959] [LogTool] - AsyncScaffold timeout 2
+INFO  [1] [16:58:27.959] [LogTool] - ================= main   end ========================
+INFO  [1] [16:58:30.950] [LogTool] - AsyncTool timeout 2
+INFO  [1] [17:28:25.156] [LogTool] - ================= main start ========================
+INFO  [1] [17:28:25.167] [LogTool] - AsyncScaffold timeout 1
+INFO  [1] [17:28:25.169] [LogTool] - AsyncScaffold update 1
+INFO  [1] [17:28:25.170] [LogTool] - AsyncScaffold timeout 2
+INFO  [1] [17:28:25.172] [LogTool] - ================= main   end ========================
+INFO  [1] [17:28:25.175] [LogTool] - AsyncScaffold update 2
+INFO  [1] [17:28:27.178] [LogTool] - AsyncScaffold update 3
+INFO  [1] [17:46:30.850] [LogTool] - ================= main start ========================
+INFO  [1] [17:46:30.860] [LogTool] - AsyncScaffold done start
+INFO  [1] [17:46:30.862] [LogTool] - starsCore 1
+INFO  [1] [17:46:30.863] [LogTool] - erase stars
+INFO  [1] [17:46:30.864] [LogTool] - AsyncScaffold done end
+INFO  [1] [17:46:30.865] [LogTool] - ================= main   end ========================
+INFO  [1] [17:46:31.851] [LogTool] - starsCore 2
+INFO  [1] [17:46:31.853] [LogTool] - fall stars
+INFO  [1] [17:46:33.858] [LogTool] - starsCore 3
+INFO  [1] [17:46:33.867] [LogTool] - remove stars
+INFO  [1] [17:46:33.868] [LogTool] - starsCore 1
+INFO  [1] [17:56:01.581] [LogTool] - ================= main start ========================
+INFO  [1] [17:56:01.590] [LogTool] - AsyncScaffold done start
+INFO  [1] [17:56:01.591] [LogTool] - get input star
+INFO  [1] [17:56:01.592] [LogTool] - get same stars
+INFO  [1] [17:56:01.593] [LogTool] - erase same stars
+INFO  [1] [17:56:01.594] [LogTool] - AsyncScaffold done end
+INFO  [1] [17:56:01.595] [LogTool] - ================= main   end ========================
+INFO  [1] [17:56:02.585] [LogTool] - fall other stars
+INFO  [1] [17:57:47.843] [LogTool] - ================= main start ========================
+INFO  [1] [17:57:47.853] [LogTool] - get input star
+INFO  [1] [17:57:47.854] [LogTool] - get same stars
+INFO  [1] [17:57:47.855] [LogTool] - erase same stars
+INFO  [1] [17:57:47.857] [LogTool] - ================= main   end ========================
+INFO  [1] [17:57:48.843] [LogTool] - fall other stars
+INFO  [1] [17:57:49.851] [LogTool] - wait player input
+INFO  [1] [18:07:14.136] [LogTool] - ================= main start ========================
+INFO  [1] [18:07:14.146] [LogTool] - get input star
+INFO  [1] [18:07:14.148] [LogTool] - get same stars
+INFO  [1] [18:07:14.149] [LogTool] - erase same stars
+INFO  [1] [18:07:14.151] [LogTool] - ================= main   end ========================
+INFO  [1] [18:07:15.136] [LogTool] - fall other stars
+INFO  [1] [18:07:16.137] [LogTool] - wait player input

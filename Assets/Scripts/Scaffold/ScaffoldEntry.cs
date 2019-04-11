@@ -17,7 +17,10 @@ public class ScaffoldEntry : MonoBehaviour {
         logger.Info("================= main start ========================");
 
         ObserverScaffold os = new ObserverScaffold();
-        os.done();
+        //os.done();
+
+        AsyncScaffold as2 = FindObjectOfType(typeof(AsyncScaffold)) as AsyncScaffold;
+        as2.done();
 
         logger.Info("================= main   end ========================");
     }
@@ -26,5 +29,10 @@ public class ScaffoldEntry : MonoBehaviour {
 	void Update () {
 
 	}
+
+    IEnumerator loadRes() {
+        yield return 0;
+
+    }
 
 }

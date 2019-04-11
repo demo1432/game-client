@@ -1,3 +1,20 @@
-14:27:05.400 - start
-14:27:05.411 - start demo
-14:27:05.412 - end demo
+11:12:08.109 - ================= main start ========================
+11:12:08.131 - ExObserver onNotify  data = test
+11:12:08.133 - ================= main   end ========================
+INFO  [1] [11:15:00.067] [LogTool] - ================= main start ========================
+INFO  [1] [11:15:00.080] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:15:00.081] [LogTool] - ================= main   end ========================
+INFO  [1] [11:23:30.265] [LogTool] - ================= main start ========================
+INFO  [1] [11:23:30.277] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:23:30.278] [LogTool] - ================= main   end ========================
+INFO  [1] [11:25:32.610] [LogTool] - ================= main start ========================
+INFO  [1] [11:25:32.626] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:25:32.628] [LogTool] - ================= main   end ========================
+INFO  [1] [11:28:24.830] [LogTool] - ================= main start ========================
+INFO  [1] [11:28:24.841] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:28:24.842] [LogTool] - ================= main   end ========================
+INFO  [1] [11:29:57.892] [LogTool] - ================= main start ========================
+INFO  [1] [11:29:57.903] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:29:57.904] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:29:57.906] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [11:29:57.907] [LogTool] - ================= main   end ========================

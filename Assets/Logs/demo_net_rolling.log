@@ -1,0 +1,11 @@
+INFO  [1] [2019-04-11 11:25:32,610ata] [LogTool] - ================= main start ========================
+INFO  [1] [2019-04-11 11:25:32,626ata] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [2019-04-11 11:25:32,628ata] [LogTool] - ================= main   end ========================
+INFO  [1] [2019-04-11 11:28:24.830] [LogTool] - ================= main start ========================
+INFO  [1] [2019-04-11 11:28:24.841] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [2019-04-11 11:28:24.842] [LogTool] - ================= main   end ========================
+INFO  [1] [2019-04-11 11:29:57.892] [LogTool] - ================= main start ========================
+INFO  [1] [2019-04-11 11:29:57.903] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [2019-04-11 11:29:57.904] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [2019-04-11 11:29:57.906] [LogTool] - ExObserver onNotify  data = test
+INFO  [1] [2019-04-11 11:29:57.907] [LogTool] - ================= main   end ========================

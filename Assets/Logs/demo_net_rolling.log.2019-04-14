@@ -1,0 +1,9 @@
+INFO  [1] [2019-04-14 21:44:34.066] [LogTool] - ================= main start ========================
+INFO  [1] [2019-04-14 21:44:34.078] [LogTool] - create stars level
+INFO  [1] [2019-04-14 21:44:34.079] [LogTool] - get input star
+INFO  [1] [2019-04-14 21:44:34.081] [LogTool] - get same stars
+INFO  [1] [2019-04-14 21:44:34.082] [LogTool] - erase same stars
+INFO  [1] [2019-04-14 21:44:34.084] [LogTool] - ================= main   end ========================
+INFO  [1] [2019-04-14 21:44:39.152] [LogTool] - supply stars
+INFO  [1] [2019-04-14 21:44:39.155] [LogTool] - fall hanging stars
+INFO  [1] [2019-04-14 21:44:41.158] [LogTool] - wait player input

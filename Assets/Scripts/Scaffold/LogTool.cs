@@ -17,7 +17,11 @@ public class LogTool {
     }
 
     public ILog getLogger() {
-        return LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        System.Diagnostics.StackTrace st = new System.Diagnostics.StackTrace();
+        System.Diagnostics.StackFrame[] sfs = st.GetFrames();
+        return LogManager.GetLogger(sfs[1].GetMethod().DeclaringType);
+
+        //return LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
     }
 
 }

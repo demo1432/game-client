@@ -1,16 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿
+using System;
+using log4net;
 
-public class LambdaScaffold : MonoBehaviour {
+public class LambdaScaffold {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public void done() {
+        ILog logger = LogTool.getInstance().getLogger();
+    }
+
 }

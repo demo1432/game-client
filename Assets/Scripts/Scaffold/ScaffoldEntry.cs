@@ -22,6 +22,12 @@ public class ScaffoldEntry : MonoBehaviour {
         AsyncScaffold as2 = FindObjectOfType(typeof(AsyncScaffold)) as AsyncScaffold;
         as2.done();
 
+        LambdaScaffold ls = new LambdaScaffold();
+        //ls.done();
+
+        DelegateScaffold ds = new DelegateScaffold();
+        //ds.done();
+
         logger.Info("================= main   end ========================");
     }
 	
